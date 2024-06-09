@@ -6,14 +6,14 @@ This repository hosts a Python application that demonstrates image classificatio
 
 ## Table of Contents
 
--[Prerequisites](#prerequisites)
--[Installation](#installation)
--[Usage](#usage)
--[Documentation](#documentation)
--[Contributing](#contributing)
--[License](#license)
--[Contact](#contact)
--[Acknowledgments](#acknowledgments)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
 
