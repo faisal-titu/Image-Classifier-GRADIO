@@ -28,8 +28,9 @@ Before you begin, ensure you have met the following requirements:
 First, clone the repository to your local machine and set up a virtual environment by running the following commands:
 
 ```
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone hhttps://github.com/faisal-titu/Image-Classifier-GRADIO.git
+cd Image-Classifier-GRADIO
+
 
 # For Windows
 python -m venv venv
@@ -86,4 +87,3 @@ If you have any questions or want to reach out, email us at [Your-Email@domain.c
 - Thanks to the TensorFlow team for providing an excellent suite of tools to build deep learning models.
 - Gradio for making it easy to create interactive AI applications.
 - ImageNet for providing the dataset used in this project.
-```
